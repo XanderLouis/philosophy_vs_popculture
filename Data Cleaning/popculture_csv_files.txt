@@ -1,0 +1,946 @@
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\final_merged_all_comments.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments\cleaned_instagram_data.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments\instagram.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\cleaned_instagram_data_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (1)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (10)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (11)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (12)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (13)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (14)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (15)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (16)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (17)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (18)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (19)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (2)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (20)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (21)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (22)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (23)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (24)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (25)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (26)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (27)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (3)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (4)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (5)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (6)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (7)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram (9)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram freewill_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram grief1_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram grief2 (2)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram grief2_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram grief3_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram grief_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram loneliness_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram morality_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram no love_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram_consciousness_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\instagram\instagram_comments_cleaned\instagram_consciousness_sam_harris_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\merged\instagram_comments_merged.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\merged\pop_culture_combined.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\merged\reddit_comments_merged.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\merged\tiktok_comments_merged.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\merged\youtube_comments_merged.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\columns_summary.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\file_column_mapping.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_file_summary.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (1).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (10).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (100).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (11).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (12).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (13).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (14).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (16).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (17).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (19).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (2).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (21).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (22).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (23).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (24).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (25).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (26).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (27).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (28).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (29).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (3).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (30).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (31).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (32).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (33).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (34).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (35).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (36).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (37).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (38).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (39).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (4).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (40).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (41).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (42).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (43).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (44).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (45).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (46).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (47).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (48).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (49).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (5).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (50).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (51).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (52).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (53).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (54).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (55).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (56).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (57).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (58).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (59).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (6).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (60).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (61).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (63).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (64).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (66).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (67).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (69).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (7).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (70).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (71).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (72).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (73).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (74).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (75).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (76).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (77).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (78).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (79).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (8).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (80).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (81).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (82).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (83).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (84).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (85).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (86).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (87).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (88).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (89).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (9).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (90).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (91).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (92).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (93).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (94).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (95).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (96).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (97).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (98).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit (99).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T173819.874.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T173921.435.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T173938.916.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T174020.216.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T174040.839.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T174242.350.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T174253.245.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T174414.382.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T174519.071.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T174538.939.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T174602.749.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T174622.067.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T174736.646.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T174749.969.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175120.792.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175150.525.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175225.361.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175404.285.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175416.141.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175428.889.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175503.855.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175555.712.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175612.748.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175623.651.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175639.700.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175700.721.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175719.680.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175734.302.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T175958.634.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180036.051.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180328.157.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180410.381.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180425.864.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180437.881.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180448.331.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180537.152.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180559.768.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180637.821.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180652.422.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180704.739.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180721.298.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180748.846.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180804.643.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180820.621.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180831.718.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180902.435.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T180913.894.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181128.787.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181248.253.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181400.586.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181453.744.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181510.340.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181522.154.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181539.084.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181553.948.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181604.543.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181642.722.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181715.790.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181728.802.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181740.310.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T181802.036.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182007.833.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182021.685.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182100.578.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182152.264.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182216.660.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182249.418.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182313.309.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182349.761.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182410.212.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182445.669.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182501.469.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182521.856.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182540.202.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182608.375.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T182707.146.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183009.742.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183113.168.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183135.464.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183205.013.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183220.531.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183232.398.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183242.671.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183254.976.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183456.411.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183537.989.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183600.271.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183610.811.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183639.215.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T183841.798.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184051.753.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184119.461.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184132.808.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184145.873.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184201.231.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184212.534.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184222.954.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184248.409.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184300.751.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184311.368.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184328.643.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184344.897.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184358.218.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184408.683.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184427.792.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184438.886.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T184508.005.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185022.651.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185047.413.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185138.234.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185155.420.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185242.903.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185255.654.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185315.191.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185402.640.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185503.722.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185545.341.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185612.922.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185631.057.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185704.400.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185825.116.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185852.106.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185913.818.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit - 2025-07-13T185926.544.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments\reddit.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (1).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (1)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (10)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (100)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (11)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (12)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (13)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (14)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (16)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (17)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (19)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (2)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (21)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (22)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (23)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (24)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (25)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (26)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (27)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (28)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (29)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (3)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (30)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (31)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (32)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (33)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (34)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (35)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (36)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (37)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (38)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (39)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (4)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (40)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (41)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (42)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (43)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (44)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (45)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (46)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (47)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (48)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (49)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (5)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (50)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (51)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (52)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (53)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (54)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (55)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (56)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (57)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (58)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (59)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (6)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (60)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (61)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (63)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (64)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (66)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (67)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (69)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (7)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (70)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (71)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (72)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (73)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (74)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (75)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (76)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (77)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (78)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (79)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (8)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (80)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (81)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (82)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (83)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (84)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (85)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (86)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (87)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (88)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (89)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (9)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (90)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (91)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (92)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (93)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (94)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (95)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (96)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (97)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (98)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit (99)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T173819.874_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T173921.435_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T173938.916_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T174020.216_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T174040.839_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T174242.350_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T174253.245_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T174414.382_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T174519.071_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T174538.939_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T174602.749_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T174622.067_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T174736.646_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T174749.969_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175120.792_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175150.525_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175225.361_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175404.285_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175416.141_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175428.889_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175503.855_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175555.712_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175612.748_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175623.651_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175639.700_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175700.721_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175719.680_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175734.302_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T175958.634_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180036.051_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180328.157_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180410.381_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180425.864_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180437.881_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180448.331_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180537.152_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180559.768_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180637.821_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180652.422_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180704.739_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180721.298_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180748.846_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180804.643_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180820.621_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180831.718_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180902.435_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T180913.894_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181128.787_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181248.253_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181400.586_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181453.744_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181510.340_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181522.154_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181539.084_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181553.948_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181604.543_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181642.722_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181715.790_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181728.802_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181740.310_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T181802.036_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182007.833_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182021.685_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182100.578_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182152.264_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182216.660_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182249.418_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182313.309_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182349.761_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182410.212_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182445.669_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182501.469_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182521.856_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182540.202_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182608.375_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T182707.146_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183009.742_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183113.168_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183135.464_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183205.013_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183220.531_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183232.398_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183242.671_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183254.976_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183456.411_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183537.989_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183600.271_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183610.811_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183639.215_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T183841.798_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184051.753_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184119.461_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184132.808_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184145.873_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184201.231_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184212.534_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184222.954_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184248.409_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184300.751_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184311.368_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184328.643_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184344.897_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184358.218_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184408.683_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184427.792_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184438.886_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T184508.005_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185022.651_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185047.413_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185138.234_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185155.420_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185242.903_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185255.654_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185315.191_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185402.640_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185503.722_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185545.341_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185612.922_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185631.057_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185704.400_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185825.116_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185852.106_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185913.818_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit - 2025-07-13T185926.544_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit1)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit2)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit3)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit4)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit5)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit6)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\reddit\reddit_comments_cleaned\reddit_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\tiktok\tiktok_phil_data.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (1).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (10).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (100).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (11).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (12).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (13).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (14).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (15).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (16).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (17).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (18).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (19).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (2).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (20).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (21).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (22).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (23).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (24).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (25).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (26).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (27).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (28).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (29).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (3).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (30).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (31).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (32).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (33).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (34).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (35).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (36).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (37).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (38).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (39).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (4).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (40).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (41).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (42).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (43).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (44).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (45).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (46).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (47).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (48).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (49).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (5).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (50).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (51).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (52).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (53).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (54).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (55).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (56).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (57).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (58).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (59).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (6).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (60).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (61).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (62).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (63).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (64).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (65).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (66).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (67).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (68).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (69).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (7).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (70).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (71).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (72).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (73).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (74).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (75).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (76).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (77).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (78).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (79).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (8).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (80).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (81).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (82).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (83).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (84).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (85).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (86).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (87).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (88).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (89).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (9).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (90).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (91).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (92).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (93).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (94).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (95).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (96).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (97).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (98).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube (99).csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T022501.303.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T022605.244.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T022643.828.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T022808.433.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T022831.951.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T022907.497.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T023049.249.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T023130.283.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T023231.345.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T023304.091.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T023504.672.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T023741.569.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T023838.654.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T023928.096.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T024014.073.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T024042.000.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T024144.017.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T024216.679.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T024312.949.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T024403.520.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T024437.069.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T024504.941.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T024639.258.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T024846.892.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T024935.000.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T025027.389.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T025152.392.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T025225.748.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T025609.346.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T025819.655.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T025824.482.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030109.658.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030220.067.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030347.260.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030504.453.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030540.056.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030557.777.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030639.338.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030702.566.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030713.068.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030833.689.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030858.191.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T030903.304.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T031434.594.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T031526.498.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T031620.906.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T031711.868.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T031758.122.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T031831.670.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T031957.187.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T032140.592.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T032248.909.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T032333.684.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T032410.494.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T032456.497.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T032541.971.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T032607.366.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T092125.212.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T092438.917.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T092545.809.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T092701.511.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T092810.143.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T092901.481.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T093017.753.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T093158.485.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T093302.203.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T093329.465.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T094019.729.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T094138.482.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T094255.576.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T094358.926.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T094454.014.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T094601.219.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T094650.740.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T094802.504.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T094853.988.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T095425.656.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T095452.589.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T095740.897.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T095902.369.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T100015.162.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T100055.167.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T100315.093.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T100556.175.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T100709.201.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T100808.684.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T100903.234.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T101014.391.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T101021.603.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T102744.477.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T102802.221.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T102928.539.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T103024.380.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T103133.519.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T103443.556.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T104115.536.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T104622.430.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T104815.142.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T104844.844.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T104946.226.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T105404.747.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T105515.596.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T110340.210.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T110717.250.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T110846.070.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T111146.780.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T111258.577.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T111358.045.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T111449.420.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T111531.862.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T111729.940.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T111829.967.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T111923.402.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T112107.446.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T113030.499.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T113124.975.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T113150.875.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T113437.718.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T113756.435.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T113813.695.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T114058.148.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T114227.518.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T114439.817.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube - 2025-08-01T114531.639.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments\youtube.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (1)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (10)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (100)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (11)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (12)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (13)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (14)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (15)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (16)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (17)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (18)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (19)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (2)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (20)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (21)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (22)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (23)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (24)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (25)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (26)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (27)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (28)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (29)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (3)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (30)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (31)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (32)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (33)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (34)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (35)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (36)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (37)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (38)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (39)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (4)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (40)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (41)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (42)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (43)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (44)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (45)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (46)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (47)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (48)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (49)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (5)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (50)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (51)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (52)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (53)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (54)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (55)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (56)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (57)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (58)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (59)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (6)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (60)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (61)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (62)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (63)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (64)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (65)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (66)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (67)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (68)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (69)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (7)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (70)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (71)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (72)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (73)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (74)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (75)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (76)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (77)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (78)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (79)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (8)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (80)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (81)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (82)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (83)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (84)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (85)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (86)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (87)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (88)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (89)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (9)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (90)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (91)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (92)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (93)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (94)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (95)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (96)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (97)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (98)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube (99)_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T022501.303_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T022605.244_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T022643.828_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T022808.433_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T022831.951_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T022907.497_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T023049.249_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T023130.283_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T023231.345_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T023304.091_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T023504.672_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T023741.569_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T023838.654_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T023928.096_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T024014.073_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T024042.000_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T024144.017_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T024216.679_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T024312.949_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T024403.520_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T024437.069_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T024504.941_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T024639.258_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T024846.892_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T024935.000_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T025027.389_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T025152.392_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T025225.748_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T025609.346_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T025819.655_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T025824.482_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030109.658_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030220.067_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030347.260_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030504.453_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030540.056_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030557.777_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030639.338_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030702.566_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030713.068_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030833.689_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030858.191_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T030903.304_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T031434.594_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T031526.498_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T031620.906_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T031711.868_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T031758.122_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T031831.670_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T031957.187_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T032140.592_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T032248.909_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T032333.684_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T032410.494_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T032456.497_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T032541.971_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T032607.366_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T092125.212_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T092438.917_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T092545.809_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T092701.511_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T092810.143_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T092901.481_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T093017.753_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T093158.485_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T093302.203_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T093329.465_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T094019.729_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T094138.482_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T094255.576_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T094358.926_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T094454.014_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T094601.219_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T094650.740_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T094802.504_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T094853.988_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T095425.656_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T095452.589_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T095740.897_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T095902.369_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T100015.162_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T100055.167_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T100315.093_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T100556.175_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T100709.201_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T100808.684_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T100903.234_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T101014.391_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T101021.603_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T102744.477_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T102802.221_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T102928.539_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T103024.380_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T103133.519_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T103443.556_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T104115.536_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T104622.430_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T104815.142_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T104844.844_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T104946.226_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T105404.747_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T105515.596_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T110340.210_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T110717.250_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T110846.070_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T111146.780_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T111258.577_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T111358.045_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T111449.420_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T111531.862_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T111729.940_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T111829.967_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T111923.402_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T112107.446_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T113030.499_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T113124.975_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T113150.875_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T113437.718_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T113756.435_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T113813.695_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T114058.148_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T114227.518_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T114439.817_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube - 2025-08-01T114531.639_cleaned.csv
+C:\Users\USER\Desktop\Projects\philosophy_and_popculture\data\pop_texts\youtube\youtube_comments_cleaned\youtube_cleaned.csv
