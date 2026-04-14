@@ -1,0 +1,20 @@
+# Ignore ALL outputs
+outputs/*
+
+# Allow only selected outputs
+!outputs/master_results.csv
+!outputs/divergence_bar_chart.png
+!outputs/pca_all_concepts.png
+!outputs/concept_context_words.csv
+
+# Ignore ALL data
+data/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+venv/

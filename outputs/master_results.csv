@@ -1,0 +1,11 @@
+concept,philo_count,pop_count,centroid_similarity,divergence,philo_coherence,pop_coherence,philo_context,pop_context
+meaning,500,500,0.6787,0.3213,0.3546,0.3414,"which, one, his, all, its, what, their, who, will, when","life, what, there, love, your, our, just, can, find, means"
+love,500,500,0.6913,0.3087,0.359,0.3741,"all, one, his, your, which, man, what, who, when, its","what, can, all, unconditional, there, when, your, life, someone, just"
+death,500,500,0.6986,0.3014,0.3667,0.4285,"his, all, life, one, which, man, what, will, there, your","life, fear, what, dying, will, die, afraid, just, all, being"
+freedom,500,500,0.7162,0.2838,0.3637,0.3436,"which, one, all, will, what, his, its, their, who, life","free, will, what, can, your, life, one, want, being, like"
+justice,500,500,0.7205,0.2795,0.382,0.2407,"what, his, said, one, good, just, which, who, will, them","life, what, people, your, can, love, who, others, being, all"
+identity,500,500,0.7463,0.2537,0.312,0.2678,"which, one, its, all, what, his, will, when, more, their","who, your, what, life, self, can, yourself, know, all, being"
+self,500,500,0.7494,0.2506,0.3984,0.3483,"which, his, one, your, all, will, what, its, itself, himself","myself, yourself, your, can, love, life, what, others, people, being"
+truth,500,500,0.7672,0.2328,0.3222,0.2429,"which, what, all, will, one, your, who, when, his, said","life, true, people, what, your, can, love, all, about, one"
+god,500,500,0.7761,0.2239,0.3713,0.2887,"his, all, who, one, what, man, him, will, your, there","all, love, life, will, what, him, can, your, who, just"
+power,500,500,0.7767,0.2233,0.3634,0.2334,"his, one, which, will, all, what, your, its, who, man","your, energy, what, can, life, love, powerful, just, all, will"
